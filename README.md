@@ -12,7 +12,7 @@ A nice random assortment came together:
 - [Try BLIS: Benchmarking competing Basic Linear Algebra Subprograms](https://rawcdn.githack.com/JustinMShea/Try-BLIS/b6ba7fc29727e0f255c19ed9856f0a5418d90718/slides/R-Finance-Try-BLIS.html), by Justin Shea
 
 ## Open Mic
-- [Intro to Stan](https://rawcdn.githack.com/Chicago-R-User-Group/2019-n4-Pre-R-Finance-Talks-and-an-Open-Mic/399958b7a76ade7222d4c6f7525219c8b407566d/stan-tech-talk.html), by Will Dearden of Update
+- [Intro to Stan](https://rawcdn.githack.com/Chicago-R-User-Group/2019-n4-Pre-R-Finance-Talks-and-an-Open-Mic/399958b7a76ade7222d4c6f7525219c8b407566d/stan-tech-talk.html), by Will Dearden of Uptake
 - "Trends in Chicago Crime", by Troy Hernandez of IBM
 - "WNBA Data: Scrapping, summarizing, and exporting", by Jonathan Mizel of Gogo, Inc.
 - "Portfolio theory with Apache Mahout", by Josh Kalina of Refinitiv
