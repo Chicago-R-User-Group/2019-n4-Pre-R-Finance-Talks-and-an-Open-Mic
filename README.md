@@ -1,4 +1,4 @@
-# Pre R/Finance Meetup: Talks and an open Mic
+# Pre R/Finance Meetup: Talks + Open Mic
 
 ## May 15th Jefferson Tap
 
